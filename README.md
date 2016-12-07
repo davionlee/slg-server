@@ -8,7 +8,7 @@
 # 1. 初始化
 ---
 
-*获取代码:* `git clone git@42.121.105.8:slg-server.git`
+*获取代码:* `git clone https://github.com/davionlee/slg-server.git`
 
 *获取依赖关系:* `make deps`
 
